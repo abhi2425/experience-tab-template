@@ -1,0 +1,4 @@
+.jobs {
+  display: flex;
+  flex-direction: column;
+}

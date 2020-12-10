@@ -1,0 +1,23 @@
+.navButton {
+  font-size: 24px;
+  letter-spacing: 2.6px;
+  font-family: monospace;
+  text-transform: uppercase;
+  background-color: transparent;
+  color: rgb(37, 36, 36);
+  border: none;
+  margin-bottom: 17px;
+  height: 30px;
+  cursor: pointer;
+}
+.navButton:hover {
+  color: #0a9ba0;
+  transition: all 0.3s ease;
+  border-left: 2px solid #0a9ba0;
+  box-sizing: border-box;
+}
+.active {
+  color: #0a9ba0;
+  outline: none;
+  border-left: 2px solid #0a9ba0;
+}

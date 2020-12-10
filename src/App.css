@@ -1,0 +1,20 @@
+.app {
+  margin: 70px auto;
+}
+.experience div {
+  color: rgb(13, 66, 59);
+  font-family: sans-serif;
+  letter-spacing: 2.8px;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 35px;
+  font-weight: 600;
+}
+.underline {
+  width: 5rem;
+  height: 0.25rem;
+  margin-bottom: 1.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0a9ba0;
+}

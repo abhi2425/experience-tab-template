@@ -1,0 +1,15 @@
+.jobDesc {
+  display: flex;
+  margin-bottom: 15px;
+}
+.icon {
+  font-size: 20px;
+  color: #0a9ba0;
+  align-self: center;
+  margin-right: 30px;
+  font-weight: 200;
+}
+.jobDesc--content {
+  color: rgba(43, 41, 41, 0.87);
+  line-break: loose;
+}

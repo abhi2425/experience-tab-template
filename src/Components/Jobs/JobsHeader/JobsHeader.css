@@ -1,0 +1,29 @@
+header h3 {
+  letter-spacing: 1.2px;
+  text-transform: capitalize;
+  font-size: 24px;
+  color: rgba(26, 25, 25, 0.925);
+  font-weight: 500;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+header h4 {
+  font-weight: 500;
+  color: #305c5c;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 4px 10px;
+  background-color: rgba(191, 207, 211, 0.87);
+  border-radius: 5px;
+  letter-spacing: 1.2px;
+  margin: 0;
+}
+header .activeYears {
+  letter-spacing: 1.5px;
+  font-family: monospace;
+  color: #305c5cda;
+  text-transform: capitalize;
+  font-weight: 200;
+  font-size: 16px;
+}
