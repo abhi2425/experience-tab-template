@@ -14,7 +14,7 @@ class ExperienceTab extends Component {
         this.setState(({ index }) => {
             index = personIndex
             return {
-                index: index
+                index
             }
         })
     }
